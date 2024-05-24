@@ -20,14 +20,14 @@ Welcome to my GitHub profile! I'm an undergraduate student at UC Santa Cruz, pur
 
 ## Get in Touch
 - **Email:** [roshukla@ucsc.edu](mailto:roshukla@ucsc.edu)
-- **LinkedIn:** [My LinkedIn](www.linkedin.com/in/rohan-shukla-3r23s5)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/rohan-shukla-3r23s5)
 
 
 ## Hobbies
 - 💻 Coding
 - 🏀 Basketball (playing & watching!)
-- 🎾 Tennis
-- 📖 Reading
-- 💪 Gym
+- 🎾 Playing tennis
+- 📖 Reading science fiction
+- 💪 Hitting the gym
 
 Thanks for visiting my profile!
