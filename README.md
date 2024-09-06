@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an undergraduate sophomore at UC Santa Cruz pu
 ### Programming Languages
 - **Python**
 - **Java**
-- **C**
+- **C**/**C++**
 - **HTML**
 - **SQL**
 
@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm an undergraduate sophomore at UC Santa Cruz pu
 - **Visual Studio Code**
 
 ### Libraries
--- **Pandas**
--- **NumPy**
--- **Matplotlib**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
 
 ## Get in Touch
 - **Email:** [roshukla@ucsc.edu](mailto:roshukla@ucsc.edu)
