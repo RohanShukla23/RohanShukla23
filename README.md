@@ -1,9 +1,8 @@
 # Hello, I'm Rohan Shukla! 👋
 
-Welcome to my GitHub profile! I'm an undergraduate student at UC Santa Cruz, pursuing a degree in Computer Science. 
+Welcome to my GitHub profile! I'm an undergraduate sophomore at UC Santa Cruz pursuing a B.S. degree in Computer Science. 
 
 ## About Me
-- 🇺🇸 Born and raised in California
 - 🎓 Currently studying Computer Science at UC Santa Cruz
 - 💻 Passionate about coding, technology, and math
 
@@ -17,6 +16,12 @@ Welcome to my GitHub profile! I'm an undergraduate student at UC Santa Cruz, pur
 
 ### Technologies & Tools
 - **Google Cloud APIs**
+- **Visual Studio Code**
+
+### Libraries
+-- **Pandas**
+-- **NumPy**
+-- **Matplotlib**
 
 ## Get in Touch
 - **Email:** [roshukla@ucsc.edu](mailto:roshukla@ucsc.edu)
