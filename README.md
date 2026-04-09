@@ -2,17 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=hey%2C+i'm+rohan+%F0%9F%91%8B;building+things+that+work.;sometimes+they+even+look+good." alt="Typing SVG" />
 </p>
 
-cs @ ucsc (stats minor) · class of 2027 · bay area (born & raised)
+cs @ ucsc (stats minor) · class of 2027 · bay area (born & raised!)
 
-I like building full-stack apps, tinkering with ML pipelines, and reading (love picking up new skills). Right now I'm between projects (upskilling before my next build). Spending most of my time fiddling with Claude Code and Docker, and going deep on NLP and distributed systems.
+I like building full-stack apps, tinkering with ML pipelines, and reading (love picking up new skills). Right now I'm between projects (upskilling before my next build). Spending most of my time fiddling with Claude Code and Docker, and learning about NLP and distributed systems.
 
-When I'm not staring at my computer I'm probably at the gym, reading nordic noir, or playing a sport.
+When I'm not at my computer I'm probably at the gym, reading nordic noir, or playing a sport.
 
 ```yaml
-currently:  in the lab — new project spinning up soon
+currently:  in the lab — new project soon
 learning:   NLP, distributed systems
 mastering:  Claude Code, Docker
-open to:    c/o 2027 new grad roles, cool collaborations
+open to:    c/o 2027 new grad roles, cool collabs, open source
 ```
 
 ---
@@ -57,17 +57,15 @@ open to:    c/o 2027 new grad roles, cool collaborations
 
 ### select past work
 
-> check my [pinned repos](https://github.com/RohanShukla23?tab=repositories) for the full picture — new stuff coming soon
-
 🔬 **Neuromorphic Computing Research** — event-RGB fusion for autonomous vehicle hazard detection (UCSC)
 
 🤖 **Slugbotics** — real-time vision software and pose estimation for humanoid robots
 
-📈 **Simple Strategies** — educational trading strategy backtester (React + FastAPI)
+📈 **Simple Strategies** — educational trading strategy backtester
 
 ⚽ **BarcaRate** — La Liga transfer analysis with live data and recommendation engine
 
-🌍 **GeoPulse** — country risk assessment app with concurrent API processing (React + Spring Boot)
+🌍 **GeoPulse** — country risk assessment app with concurrent API processing
 
 ---
 
