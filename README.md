@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=hi%2C+i'm+rohan+%F0%9F%91%8B; building+things+that+work+(mostly).;sometimes+they+also+look+good." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=hi%2C+i%27m+rohan+%F0%9F%91%8B;building+things+that+work+(mostly).;sometimes+they+also+look+good." alt="Typing SVG" />
 </p>
 
 cs @ ucsc (stats minor) · class of 2027 · bay area (born & raised!)
