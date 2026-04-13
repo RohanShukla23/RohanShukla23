@@ -6,7 +6,7 @@ cs @ ucsc (stats minor) · class of 2027 · bay area (born & raised!)
 
 I like building full-stack apps, tinkering with ML pipelines, and picking up new skills. Right now I'm between projects (upskilling). Spending most of my time fiddling with Claude Code and Docker, and learning about NLP and distributed systems.
 
-When I'm not at my computer I'm probably at the gym, reading nordic noir, or playing a sport.
+I also like going to the gym, reading nordic noir, or playing a sport.
 
 ```yaml
 currently:  in the lab — new project soon
